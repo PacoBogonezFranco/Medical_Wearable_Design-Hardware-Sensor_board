@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Board Stack Report
+From  : Project [Wearables.PrjPcb]
+   Generated File[Pcb.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 03:55:28 PM On 14/07/2020

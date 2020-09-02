@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Wearables.PrjPcb]
+   Generated File[Pcb.GTL]
+   Generated File[Pcb.G1]
+   Generated File[Pcb.G2]
+   Generated File[Pcb.GBL]
+   Generated File[Pcb.GPB]
+   Generated File[Pcb.GPT]
+   Generated File[Pcb.GTO]
+   Generated File[Pcb.GTP]
+   Generated File[Pcb.GTS]
+   Generated File[Pcb.GBS]
+   Generated File[Pcb.GBP]
+   Generated File[Pcb.GBO]
+   Generated File[Pcb.GKO]
+   Generated File[Pcb.Outline]
+   Generated File[Pcb.3D Top]
+   Generated File[Pcb.3D Bottom]
+   Generated File[Pcb.GD1]
+   Generated File[Pcb.GG1]
+   Generated File[Pcb.RUL]
+   Generated File[Pcb.EXTREP]
+   Generated File[Pcb.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 04:27:56 PM On 02/08/2020
