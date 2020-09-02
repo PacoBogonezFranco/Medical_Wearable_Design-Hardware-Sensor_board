@@ -1,0 +1,25 @@
+Field=Designator~String~Designator~213|Field=Dielectric~String~Dielectric~202|Field=ESR~String~ESR~202|Field=Manufacturer~String~Manufacturer~283|Field=Power Max~String~Power Max~180|Field=Quantity~Integer~Quantity~207|Field=Reference~String~Reference~323|Field=Supplier 1~String~Supplier 1~67|Field=Supplier 1 Part Number~String~Supplier 1 Part Number~67|Field=Supplier 2~String~Supplier 2~67|Field=Supplier 2 Part Number~String~Supplier 2 Part Number~67|Field=Supplier 3~String~Supplier 3~67|Field=Supplier 3 Part Number~String~Supplier 3 Part Number~67|Field=Tolerance~String~Tolerance~67|Field=Value~String~Value~67|Field=Voltage Max~String~Voltage Max~67|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Wearables.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\Wearables\Wearables.PrjPcb|ReportField=Title~BOM_PartType For Project [Wearables.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~71|ReportField=ReportTime~06:26:22 PM|ReportField=ReportDate~15/07/2020|ReportField=ReportDateTime~15/07/2020 06:26:22 PM|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~3 Minna Close|ReportField=Address2~Belrose|ReportField=Address3~NSW 2085|ReportField=Address4~Australia|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~Altium Limited|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Wearables.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\Wearables\Wearables.PrjPcb|ReportField=PCBDataSourceFileName~Pcb.CSPcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\Wearables\Pcb.CSPcbDoc
+X200|||IQD||1|LFSPXO071945Cutt|Mouser|449-LFSPXO071945Cutt|Farnell||Digikey||||3.6 V
+U401|||Bosch||1|BME280|Mouser|262-BME280|Farnell||Digikey|828-1063-1-ND|||4.25 V
+U400|||||1|MAX30101EFD|Mouser|700-MAX30101EFD+|Farnell|2580783|Digikey|MAX30101EFD+TCT-ND|||6.0 V
+U302|||Analog Devices||1|AD8227BRMZ|Mouser|584-AD8227BRMZ|Farnell|2462028|Digikey|AD8227BRMZ-ND|||36.0 V
+U300, U301|||Analog Devices||2|AD8629ARMZ|Mouser|AD8629ARMZ|Farnell|2112572|Digikey|AD8629ARMZ-REELCT-ND|||5.0 V
+U200|||Maxim Integrated||1|MAX30003CTI|Mouser||Farnell||Digikey||||
+U101|||Analog Devices||1|LTC3204EDC-5TRPBF|Mouser|584-C3204EDC-5TRPBF|Farnell||Digikey|LTC3204EDC-5#TRPBF-ND|||5.5 V
+U100|||Texas Instruments||1|TPS79718DCKR|Mouser|595-TPS79718DCKR|Farnell|1575753|Digikey|296-11988-1-ND|||5.5 V
+R401|||Bourns|0.0625 W|1|CR0402-J/-000GLF|Mouser|652-CR0402-J/-000GLF|Farnell|2008330|Digikey|CR0402-J/-000GLFCT-ND|0.1%|0R|75 V
+R305|||WALSIN|0.0625 W|1|WR04X4991FTL|Mouser|791-WR04X4991FTL|Farnell|2668232|Digikey||0.1%|4.99k|50 V
+R201, R202, R300, R301, R302, R303, R304, R307, R308, R309, R400|||BOURNS|0.0625 W|11|CRT0402-DZ-1003GAS|Mouser|652-CRT0402-DZ-1003GAS|Farnell|2535396|Digikey|CRT0402-DZ-1003GASCT-ND|0.5%|100k|50 V
+R200, R203, R306|||WALSIN|0.0625 W|3|WR04X4701FTL|Mouser|791-WR04X4701FTL|Farnell|2502550|Digikey||1%|4.7k|50 V
+P200, P300|||Molex||2|532610371|Mouser|538-53261-0371|Farnell|1125359|Digikey|WM7621CT-ND|||125 V
+JP100, JP101|||||2||||||||||
+C307|C0G||KEMET||1|C0402C681J3GACTU|Mouser|80-C0402C681J3G|Farnell|2896849|Digikey|399-15341-2-ND|5%|680 pF|25 V
+C303|X5R||Murata||1|GRM155R61A475MEAAD|Mouser|81-GRM155R61A475MEAD|Farnell|2688503|Digikey|490-14306-1-ND|20%|4.7 uF|10 V
+C300, C301|X7R||Würth Elektronik||2|885012205047|Mouser|710-885012205047|Farnell|2533991|Digikey|732-7542-1-ND|10%|3.3 nF|25 V
+C203|C0G||Würth Elektronik||1|885012005018|Mouser|710-885012005018|Farnell|2533787|Digikey|732-7434-1-ND|5%|1 nF|10 V
+C201, C212|X5R||Murata||2|GRM155R61E105KA12D|Mouser|81-GRM155R61E105KA12J|Farnell|2218855|Digikey|490-10017-1-ND|10%|1 uF, 1uF|25 V
+C200, C202|X7R||TDK||2|CGA2B1X7R1C683K050BC|Mouser|810-CGA2B1X7R1C683K|Farnell|2210749|Digikey|445-5612-1-ND|10%|68 nF|16 V
+C112, C205, C207, C209, C210, C211|X5R||AVX||6|0402ZD106MAT2A|Mouser|581-0402ZD106MAT2A|Farnell|3340826|Digikey|478-10052-1-ND|20%|10 uF|10 V
+C102, C104, C106, C111, C113, C115, C204, C206, C208, C213, C304, C309, C400|X7R||Murata||13|GRM155R71C104KA88J|Mouser|81-GRM155R71C104KA8J|Farnell|2611911|Digikey|490-6328-2-ND|10%|100 nF|16 V
+C101, C103, C105, C108, C109, C110, C114, C302, C305, C306, C308, C401|X5R||Murata||12|ZRB157R61A225KE11D|Mouser|81-ZRB157R61A225KE11D|Farnell|2990838|Digikey|490-10980-1-ND|10%|2.2 uF|10 V
+C100, C107||0.01 Ohm|Murata||2|NFM18PC225B1A3|||||||20%|2.2 uF|10 VDC
