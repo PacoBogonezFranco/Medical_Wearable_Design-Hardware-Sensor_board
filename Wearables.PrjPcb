@@ -40,7 +40,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Power supply.SchDoc
+DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
@@ -54,10 +54,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HLJVDVBT
+DocumentUniqueId=EOSMBQTE
 
 [Document2]
-DocumentPath=ECG_Chip.SchDoc
+DocumentPath=Power supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
 AnnotationIndexControlEnabled=1
@@ -71,10 +71,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XGETIKJM
+DocumentUniqueId=HLJVDVBT
 
 [Document3]
-DocumentPath=EMG Amplifier.SchDoc
+DocumentPath=ECG_Chip.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
 AnnotationIndexControlEnabled=1
@@ -88,10 +88,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DIETYRAK
+DocumentUniqueId=XGETIKJM
 
 [Document4]
-DocumentPath=Sensores.SchDoc
+DocumentPath=EMG Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
 AnnotationIndexControlEnabled=1
@@ -105,9 +105,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NCRQMPTA
+DocumentUniqueId=DIETYRAK
 
 [Document5]
+DocumentPath=Sensores.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=500
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NCRQMPTA
+
+[Document6]
 DocumentPath=Pcb.CSPcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUOWPISN
 
-[Document6]
+[Document7]
 DocumentPath=Wearables.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -146,79 +163,83 @@ DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-Wearables.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.3D Bottom
+DocumentPath=CHIP_B02MM_STM.LOG
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.3D Top
+DocumentPath=Library_View.LOG
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.EXTREP
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.3D Bottom
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.G1
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.3D Top
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.G2
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GBL
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.G1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GBO
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.G2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GBP
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GBS
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GPB
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GPT
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GTL
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GTO
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GTP
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GTS
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.Outline
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.REP
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Default Configuration\Outputs\Gerber\Pcb.RUL
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.Outline
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=F:\Wearable\Wearables.xls
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Default Configuration\Outputs\Gerber\Pcb.RUL
 DItemRevisionGUID=
 
 [Configuration1]
